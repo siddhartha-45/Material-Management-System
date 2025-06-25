@@ -170,13 +170,8 @@ src/
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
-
----
-
 ## 👨‍💻 Author
 
-**Chitikela Jishnu Venkata Siddhartha**
+**Chitikela Jishnu Venkata Siddhartha** 
+
 GitHub: https://github.com/siddhartha-45

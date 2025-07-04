@@ -1,4 +1,4 @@
-# 🏠 Material and Inventory Management System
+#  Material and Inventory Management System
 
 The **Material and Inventory Management System** is a web-based application designed to streamline inventory tracking, daily production logging, and vendor order management in manufacturing environments. It eliminates manual record-keeping by digitizing workflows and enables real-time access to data, ensuring efficiency, transparency, and better supply chain coordination.
 
